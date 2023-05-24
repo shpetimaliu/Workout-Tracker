@@ -4,7 +4,7 @@
 🇺🇸
 
 
-# Gjurmuesi i stërvitjeve
+# Workout Tracker
 
 This script is a workout tracker application that allows users to record and track their running and cycling workouts. It uses JavaScript and HTML for the user interface and functionality. The script utilizes object-oriented programming principles to create workout objects and perform calculations based on user input.
 
@@ -55,7 +55,7 @@ Feel free to modify the script to suit your specific needs or enhance its functi
 
 🇦🇱
 
-# Vëzhgimin e Ushtrojave
+# Gjurmuesi i stërvitjeve
 
 Ky skript është një aplikacion për vëzhgimin e ushtrojave që lejon përdoruesit të regjistrojnë dhe vëzhgojnë ushtrimet e tyre të joggingut dhe ecjes me biçikletë. Për interfejsin dhe funksionalitetin e tij përdoret JavaScript dhe HTML. Skripti përdor parimet e programimit objekt-orientuar për të krijuar objekte ushtrimi dhe për të kryer llogaritjet bazuar në hyrjet e përdoruesit.
 
